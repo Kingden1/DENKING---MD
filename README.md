@@ -1,4 +1,4 @@
-# JAY-MD-BOT
+# DENKING-MD-BOT
 
 ## Best Whatsapp Bot
 
@@ -25,11 +25,11 @@
 4. Enjoy
 
 
-**[`Tap Here Deploy On Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/jay-ai-bot)**
+**[`Tap Here Deploy On Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/denking-ai-bot)**
 
 
 
-[Fork repo](https://github.com/jayden-official/JAY-MD-BOT/fork)
+[Fork repo](https://github.com/Kingden1/DENKING-MD-BOT/fork)
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-[Scan Qr](https://jay-md-scanner-43bbe5e15e05.herokuapp.com/qr)
+[Scan Qr](https://denking-md-scanner-43bbe5e15e05.herokuapp.com/qr)
 
 
 
