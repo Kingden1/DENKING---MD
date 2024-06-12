@@ -25,7 +25,7 @@
 4. Enjoy
 
 
-**[`Tap Here Deploy On Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/denking-ai-bot)**
+**[`Tap Here Deploy On Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/kingden1-ai-bot)**
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-[Scan pairing code](https://jay-md-scanner-43bbe5e15e05.herokuapp.com/pair)
+[Scan pairing code](https://denking-md-scanner-43bbe5e15e05.herokuapp.com/pair)
 
 
 
@@ -41,7 +41,7 @@
 
 
 
-[Full App](https://jay-md-scanner-43bbe5e15e05.herokuapp.com/qr)
+[Full App](https://denking-md-scanner-43bbe5e15e05.herokuapp.com/qr)
 
 
 ### Thanks to god
