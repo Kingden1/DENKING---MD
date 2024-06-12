@@ -1,9 +1,9 @@
 {
-"name": "Jay-md",    
+"name": "denking-md",    
 "version": "1.0.0",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name jay",
-"stop": "pm2 stop jay",
+"start": "pm2 start index.js --deep-monitoring --attach --name denking",
+"stop": "pm2 stop denking",
 "restart": "git pull && npm stop && npm start",
 "stash": "git stash && git stash drop"
 },
